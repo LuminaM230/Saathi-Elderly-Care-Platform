@@ -1,0 +1,39 @@
+{
+  "preferences": {
+    "lang": "en",
+    "userType": "senior",
+    "watchConnected": false
+  },
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Priya (Daughter)",
+      "phone": "+91 98765 43210",
+      "relation": "Family"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Sharma",
+      "phone": "+91 87654 32109",
+      "relation": "Doctor"
+    },
+    {
+      "id": 3,
+      "name": "Ambulance",
+      "phone": "108",
+      "relation": "Emergency"
+    },
+    {
+      "id": 4,
+      "name": "Police",
+      "phone": "100",
+      "relation": "Emergency"
+    },
+    {
+      "id": 5,
+      "name": "Neighbor – Rajan",
+      "phone": "+91 76543 21098",
+      "relation": "Neighbor"
+    }
+  ]
+}
