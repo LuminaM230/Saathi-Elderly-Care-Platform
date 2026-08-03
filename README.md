@@ -21,6 +21,26 @@ Saathi is a full-stack healthcare platform designed to improve the safety, healt
 
 ---
 
+## Application Screenshots
+
+| Home | Health Dashboard |
+|------|------------------|
+| ![](screenshots/home.png) | ![](screenshots/wellness.png) |
+
+| Medication Reminders | Emergency SOS |
+|----------------------|---------------|
+| ![](screenshots/reminders.png) | ![](screenshots/emergency.png) |
+
+| Family Dashboard | Voice Navigation |
+|------------------|------------------|
+| ![](screenshots/family.png) | ![](screenshots/voice.png) |
+
+| Multilingual Support | Health Reports |
+|----------------------|----------------|
+| ![](screenshots/language.png) | ![](screenshots/reports.png) |
+
+---
+
 ## Tech Stack
 
 ### Frontend
@@ -134,3 +154,9 @@ Originally built for a hackathon and later extended into a full-stack healthcare
 ## Project Status
 
 Completed as a full-stack healthcare platform featuring a React frontend, Express.js backend, RESTful APIs, multilingual support, and voice-enabled accessibility.
+
+---
+
+## Acknowledgements
+
+This project was initially developed during a hackathon and later enhanced into a full-stack healthcare platform with additional backend functionality, REST APIs, improved accessibility features, and persistent data storage.
